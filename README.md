@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **asep3003/asep3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="assets/github-banner.png">
 
 <h1>Mohamad Asep Saepulloh</h1>
 
@@ -39,9 +37,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/asep3003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syafwan000&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asep3003&layout=compact&theme=dark" />
   </a><br>
   <a href="https://github.com/asep3003">
-    <img src="https://github-readme-stats.vercel.app/api?username=Syafwan000&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=asep3003&show_icons=true&theme=dark" />
   </a>
 </p>
