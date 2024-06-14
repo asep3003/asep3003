@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/asep3003">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asep3003&layout=compact&theme=dark" />
-  </a><br>
+  </a>
   <a href="https://github.com/asep3003">
     <img src="https://github-readme-stats.vercel.app/api?username=asep3003&show_icons=true&theme=dark" />
   </a>
